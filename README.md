@@ -1,2 +1,2 @@
 # moneytor
-Know exactly were your money goes
+Know exactly where your money goes
